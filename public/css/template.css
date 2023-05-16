@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@100;300&display=swap');
+
+html {
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.header {
+    background-color: white;
+}
+.box {
+    width: 30cm;
+    height: 17cm;
+    margin: auto;
+}
+
+.content {
+    padding-top: 60px;
+    margin: auto;
+    width: 95%;
+}
+
+.pic-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.heading {
+    font-size: 40px;
+}
+
+.isi {
+    font-size: 17px;
+    padding-bottom : 10px;
+}
+
+.box1 {
+    background-color: #F3F4F6;
+}
+
+.content-box2 {
+    font-size: 22px;
+    margin: auto;
+    padding-left: 0px;
+    padding-right: 40px;
+    position: relative;
+    color: white;
+    text-align: justify;
+}
+
+.list1 {
+    list-style-type: decimal;
+}
+
+.content1 {
+    margin-top: 20px;
+    width: 28cm;
+    height: 12cm;
+    border-radius: 20px;
+}
+
+.content2 {
+    padding-top: 60px;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin: auto;
+    width: 95%;
+}
+
+.content-box3 {
+    margin: auto;
+    width: 400px;
+    height: 550px;
+    padding-top: 20px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    text-align: justify;
+}
+
+.content-box3:hover {
+    box-shadow:
+        1px 0.9px 1.5px -13px rgba(0, 0, 0, 0.038),
+        2.6px 2.2px 3.7px -13px rgba(0, 0, 0, 0.078),
+        5.3px 4.4px 7.6px -13px rgba(0, 0, 0, 0.115),
+        11px 9.1px 15.7px -13px rgba(0, 0, 0, 0.147),
+        30px 25px 43px -13px rgba(0, 0, 0, 0.17)
+        ;
+} 
+
+.title1 {
+    font-size: 24px;
+}
+
+.isian1 {
+    margin-top: 25px;
+}
+
+.form {
+    margin: auto;
+    width: 400px;
+    height: 550px;
+}
+
+.input {
+    margin-bottom:20px;
+}
+
+.contact {
+    height: 17cm;
+}
+
+.footer{
+    padding-top: 10px;
+}
+
+.icon-sosial {
+    font-size: 22px;
+}
+
+.footer-box {
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 8px;
+    margin-top: 5px;
+    margin-right: 10px;
+    padding-top: 5px;
+}

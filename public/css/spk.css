@@ -1,0 +1,27 @@
+.spk-body {
+    background-color: #F3F4F6;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.spk-box {
+    background-color: white;
+    margin: auto;
+    width: 850px;
+    height: auto;
+    padding-left: 35px;
+    padding-top: 20px;
+    padding-right: 35px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    text-align: justify;
+    box-shadow:
+        1px 0.9px 1.5px -13px rgba(0, 0, 0, 0.038),
+        2.6px 2.2px 3.7px -13px rgba(0, 0, 0, 0.078),
+        5.3px 4.4px 7.6px -13px rgba(0, 0, 0, 0.115),
+        11px 9.1px 15.7px -13px rgba(0, 0, 0, 0.147),
+        30px 25px 43px -13px rgba(0, 0, 0, 0.17)
+        ;
+
+}
